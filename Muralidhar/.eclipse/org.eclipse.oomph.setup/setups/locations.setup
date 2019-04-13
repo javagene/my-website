@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<setup:LocationCatalog
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:setup="http://www.eclipse.org/oomph/setup/1.0">
+  <installation>
+    <key href="file:/D:/Murali/softwares/sts-bundle/sts-3.9.3.RELEASE/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/D:/Murali/practice/AngularSpringBoot/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Murali/practice/WebDevelopBootCamp_Colt/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Murali/practice/SpringBootJavaInUse2/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Murali/practice/SpringBootJavaInUse/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Murali/practice/Reviews/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Murali/practice/springBootRanga/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Murali/practice/springBootRestAngularNew/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Murali/practice/javaDreamJob/collections/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Murali/practice/javaDreamJob/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Murali/practice/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Murali/Learning/practice/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Murali/practice/springBoot/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Murali/practice/springBootNew/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Murali/practice/springBootRestAngular/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+  </installation>
+  <installation>
+    <key href="file:/C:/Users/Muralidhar/eclipse/jee-oxygen/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/C:/Users/Muralidhar/eclipse-workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+  </installation>
+  <workspace>
+    <key href="file:/D:/Murali/practice/AngularSpringBoot/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Murali/softwares/sts-bundle/sts-3.9.3.RELEASE/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/D:/Murali/practice/WebDevelopBootCamp_Colt/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Murali/softwares/sts-bundle/sts-3.9.3.RELEASE/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/D:/Murali/practice/SpringBootJavaInUse2/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Murali/softwares/sts-bundle/sts-3.9.3.RELEASE/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/D:/Murali/practice/SpringBootJavaInUse/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Murali/softwares/sts-bundle/sts-3.9.3.RELEASE/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/D:/Murali/practice/Reviews/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Murali/softwares/sts-bundle/sts-3.9.3.RELEASE/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/D:/Murali/practice/springBootRanga/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Murali/softwares/sts-bundle/sts-3.9.3.RELEASE/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/D:/Murali/practice/springBootRestAngularNew/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Murali/softwares/sts-bundle/sts-3.9.3.RELEASE/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/D:/Murali/practice/javaDreamJob/collections/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Murali/softwares/sts-bundle/sts-3.9.3.RELEASE/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/D:/Murali/practice/javaDreamJob/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Murali/softwares/sts-bundle/sts-3.9.3.RELEASE/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/D:/Murali/practice/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Murali/softwares/sts-bundle/sts-3.9.3.RELEASE/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/D:/Murali/Learning/practice/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Murali/softwares/sts-bundle/sts-3.9.3.RELEASE/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/D:/Murali/practice/springBoot/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Murali/softwares/sts-bundle/sts-3.9.3.RELEASE/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/D:/Murali/practice/springBootNew/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Murali/softwares/sts-bundle/sts-3.9.3.RELEASE/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/D:/Murali/practice/springBootRestAngular/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Murali/softwares/sts-bundle/sts-3.9.3.RELEASE/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/D:/Murali/javaPractice/mavanPractice/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/D:/Murali/javaPractice/core/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/D:/Murali/javaPractice/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/D:/Murali/Learning/practice/springHibernate/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/Muralidhar/eclipse-workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/Muralidhar/eclipse/jee-oxygen/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+</setup:LocationCatalog>
